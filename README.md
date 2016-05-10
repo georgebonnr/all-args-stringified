@@ -1,4 +1,5 @@
 Stringify all args as a resolver for memoization functions.  Useful if you have more than one function, and one of them is an object.
+Works even if the arguments are functions!
 
 #Usage:
 
